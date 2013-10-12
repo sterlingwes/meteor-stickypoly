@@ -3,7 +3,7 @@
     "description": "Polyfill for position:sticky CSS",
     "homepage": "http://github.com/sterlingwes/meteor-stickypoly",
     "author": "Wes Johnson",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "git": "http://github.com/sterlingwes/meteor-stickypoly",
     "packages": {}
 }
